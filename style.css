@@ -1,9 +1,8 @@
 body {
- max-height: 100%;
  margin: 100px;
 }
 
-.grid-container {
+.flex-container {
  display: flex;
  flex-wrap: wrap;
  flex-direction: row;
@@ -25,6 +24,4 @@ body {
  display: flex;   
 }
 
-img {
- width: 80%;
-}
+img {}
