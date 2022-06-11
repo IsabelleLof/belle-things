@@ -13,13 +13,19 @@ body {
  flex-direction: row; 
  display: flex;
  flex-wrap: wrap;
+ row-gap: 100px;
 }
 
 .image1 { 
  display: inline;
  width: 450px;
- margin-bottom: 100px;
-}   
+}
+
+.button-image1 {
+ border: none;
+ background: white;
+ padding-left: 10px;
+}
 
 .image2 {
  display: inline;
